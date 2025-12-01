@@ -1,0 +1,5 @@
+{
+  "name": "Escala Diaconia IPGII",
+  "description": "Gerenciador de escala de voluntários e diaconia para a Igreja Presbiteriana (IPGII) com suporte a tema escuro, gestão administrativa e impressão de escalas.",
+  "requestFramePermissions": []
+}
